@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "survey-core": "^1.11.2",
+    "survey-react-ui": "^1.11.2"
+  }
+}
